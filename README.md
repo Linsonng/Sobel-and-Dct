@@ -13,4 +13,5 @@ To get the result of "DCT--high pass filtering--IDCT" part, run vdct_all.py.
 
 ## Links: 
 REAL-TIME MOTION DETECTION BASED ON DISCRETE COSINE TRANSFORM
+
 https://ieeexplore.ieee.org/abstract/document/6467376
