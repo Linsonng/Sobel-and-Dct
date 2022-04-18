@@ -3,9 +3,11 @@ In this repository, I followed the idea from paper&lt;REAL-TIME MOTION DETECTION
 
 ## Usage
 To get the sobel results of images, run sobel_all.py
+
 `python sobel_all.py`
 
 To get the result of "DCT--high pass filtering--IDCT" part, run vdct_all.py.
+
 `python vdct_all.py`
 
 
